@@ -35,5 +35,3 @@ Armar una PC de escritorio para juegos, verificando que todos los componentes fu
 ## Resultado
 PC armada y funcionando.
 
-## Aprendizajes
-<!-- Escribe 1 o 2 líneas con lo que aprendiste en este armado. -->
